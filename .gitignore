@@ -1,0 +1,10 @@
+*.txt
+*.csv
+*.json
+__pycache__
+data/
+training_logs/
+*.gz
+*.ipynb
+!biomassters_preprocessing.ipynb
+!biomassters_training_and_predictions.ipynb
